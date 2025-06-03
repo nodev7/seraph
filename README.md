@@ -1,4 +1,7 @@
 <p>
+  <a href="https://github.com/nodev7/Seraph/stargazers">
+    <img src="https://img.shields.io/github/stars/nodev7/Seraph?style=social">
+  </a>
   <a href="https://github.com/nodev7/Seraph/releases/latest">
     <img src="https://img.shields.io/github/v/release/nodev7/seraph?include_prereleases">
   </a>

@@ -24,16 +24,16 @@
 Seraph is a lightweight PowerShell-written tool that silently installs applications using `winget` and automatically removes them once they are closed. This allows for easy app testing for deployment/use.
 
 ---
-
+ 
 ### How It Works/manual:
 ---
-1. Unzip the archive, place it in `C:\Users\YOURUSERNAME\Documents\WindowsPowerShell\Modules`, if you dont have a modules folder, create one in `.\WindowsPowershell`.
+1. Install the module from the `psgallery`, `Install-module seraph` 
 2. In a pwsh session, import the module, `Import-Module seraph`
 3. Run the function `seraphinstall`
 4. Follow the prompt.
 6. The aplication is silently installed.
 7. The powershell session monitors if the process is still running,
-8. **if the app is nclosed it automaticlly uninstalls the app**
+8. **if the app is closed it automaticlly uninstalls the app**
 
 ### Preview:
 ---

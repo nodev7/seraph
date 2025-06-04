@@ -35,7 +35,7 @@ Seraph is a lightweight PowerShell-written tool that silently installs applicati
 7. The powershell session monitors if the process is still running,
 8. **if the app is nclosed it automaticlly uninstalls the app**
 
-### Preview
+### Preview:
 ---
 ![image](https://github.com/user-attachments/assets/7bab10a0-d832-4b60-a5af-a8f92064e786)
 

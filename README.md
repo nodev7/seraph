@@ -25,15 +25,19 @@ Seraph is a lightweight PowerShell-written tool that silently installs applicati
 
 ---
  
-### How It Works/manual:
+### Manual:
 ---
+
+- (reccomended to add module import inside `$PROFILE`)
+
+** install method 1:**
 1. Install the module from the `psgallery`, `Install-module seraph` 
 2. In a pwsh session, import the module, `Import-Module seraph`
-3. Run the function `seraphinstall`
-4. Follow the prompt.
-6. The aplication is silently installed.
-7. The powershell session monitors if the process is still running,
-8. **if the app is closed it automaticlly uninstalls the app**
+
+** install method 2:**
+1. download latest release
+2. unzip the archive to `C:\Users\$env:USERNAME\Documents\WindowsPowershell\Modules` (pwsh 5.1/default installation)
+   (if newer vers, wherever your module directory is)
 
 ### Preview:
 ---

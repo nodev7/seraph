@@ -18,7 +18,7 @@
 
 ---
 
-# Seraph  
+# Seraph   (scoop and chocolaty support is coming)
 **Automate Temporary Application Installations with Winget**  
 
 Seraph is a lightweight PowerShell-written tool that silently installs applications using `winget` and automatically removes them once they are closed. This allows for easy app testing for deployment/use.

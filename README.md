@@ -25,7 +25,7 @@ Seraph is a lightweight PowerShell-written tool that silently installs applicati
 
 ---
 
- (scoop and chocolaty support has been scraped) (cant be bothered)
+ (i know winget is crap but scoop and chocolaty support has been scraped) (cant be bothered)
  
 ### Manual:
 ---

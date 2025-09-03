@@ -40,6 +40,10 @@ Seraph is a lightweight PowerShell-written tool that silently installs applicati
 1. download latest release
 2. unzip the archive to `C:\Users\$env:USERNAME\Documents\WindowsPowershell\Modules` (or wherever your module directory is)
 
+! notice !
+Your terminal needs to suport modern encoding (UTF-8, UTF-16 UTF-32) not ANSI or ASCII.
+
+
 ### Preview:
 ---
 ![image](https://github.com/user-attachments/assets/7bab10a0-d832-4b60-a5af-a8f92064e786)
